@@ -1,0 +1,1 @@
+(Self-correction: I cannot use write_to_file for images. I should use the image input I received)
